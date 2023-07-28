@@ -2,7 +2,7 @@
 This is the clone to already [existing project](https://github.com/MrRakeshRaj/simple-weather-app) in my repo but the obly difference is, I have integrated the django with react so that the forecast data is coming from django backend. This project is hosted on AWS.
 
 ## Tech Stack
-**React, Django, AWS**
+**React, Django, AWS, CI/CD(github Actions)**
 
 
 ## Screenshots
