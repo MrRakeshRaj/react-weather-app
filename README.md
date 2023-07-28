@@ -10,7 +10,7 @@ This is the clone to already [existing project](https://github.com/MrRakeshRaj/s
 <img width="1440" alt="home" src="https://github.com/MrRakeshRaj/simple-weather-app/assets/76464379/d4c0778d-8071-43eb-bf35-d722318c8497">
 
 ## Deployment
-**View my deployment on AWS => [Live Demo](https://vite-react-simple-weather-app.netlify.app).**
+**View my deployment on AWS => [Live Demo](http://15.206.194.239).**
 
 ## Setup
 To run the Weather App locally on your machine, follow these steps:
