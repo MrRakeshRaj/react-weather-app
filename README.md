@@ -1,5 +1,5 @@
 # Weather App 2.0
-This is the clone to already existing project in my repo but the obly difference is, I have integrated the django with react so that the forecast data is coming from django backend. This project is hosted on AWS. [old project](https://github.com/MrRakeshRaj/simple-weather-app)
+This is the clone to already [existing project](https://github.com/MrRakeshRaj/simple-weather-app) in my repo but the obly difference is, I have integrated the django with react so that the forecast data is coming from django backend. This project is hosted on AWS.
 
 ## Tech Stack
 **React, Django, AWS**
@@ -10,7 +10,7 @@ This is the clone to already existing project in my repo but the obly difference
 <img width="1440" alt="home" src="https://github.com/MrRakeshRaj/simple-weather-app/assets/76464379/d4c0778d-8071-43eb-bf35-d722318c8497">
 
 ## Deployment
-View my deployment on Netlify => [Live Demo](https://vite-react-simple-weather-app.netlify.app).
+**View my deployment on AWS => [Live Demo](https://vite-react-simple-weather-app.netlify.app).**
 
 ## Setup
 To run the Weather App locally on your machine, follow these steps:
